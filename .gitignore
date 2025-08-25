@@ -1,0 +1,6 @@
+GDP-ML/processed_datasets/
+env/
+.env
+.DS_Store
+.vscode/
+.git/
