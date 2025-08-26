@@ -59,7 +59,7 @@ Output
 - Trained embeddings from contrastive learning
 - Final classification model performance (accuracy, F1-score, etc.) 
 
-The cleaned datasets are under could be generated via the scripts, but are also available in this [link](https://1drv.ms/f/c/23D6F11ED2A34FFD/EsZIrmdNNxhKkHWmtkXCBuYB5fpIVvVnzGEGMHgcHOoCJQ?e=2zSYXu). \
+The cleaned datasets are under could be generated via the scripts, but are also available in this [link](https://liveumoncton-my.sharepoint.com/:f:/g/personal/psb7953_umoncton_ca/EpeoDCTc_QVOuhipsOSVZswBUg_ZJ_VbeXEMwiyljX0_ag?e=amm3tq). \
 The output metrics are under `results`
 
 
